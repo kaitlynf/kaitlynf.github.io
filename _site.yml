@@ -6,7 +6,6 @@ navbar:
     - text: "Home"
     - icon: fa-home
       href: index.html
-  middle: 
     - text: "CV"
     - icon: fa-book-open
     - href: letter.html
