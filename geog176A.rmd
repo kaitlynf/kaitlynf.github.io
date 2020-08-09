@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020, I am taking a introduction to GIS course that is using R studio to help us better understand and map the data. It has been challenging yet exciting learning how to code! 
+
+## [Building a project website]()
+
+- Learned how to open a user site on Github. 
+- Built a site to display my work.
+- Personalized with my information practiced attaching URLs and images. 
