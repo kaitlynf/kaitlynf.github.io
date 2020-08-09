@@ -13,7 +13,6 @@ navbar:
     - text: "GIS Work"
     - icon: fa-github
       href: geog176A.html
-  
 output:
   html_document:
     theme: "journal"

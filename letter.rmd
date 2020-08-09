@@ -1,5 +1,5 @@
 ---
-title: Kaitlyn Fu
+title: "Kaitlyn Fu"
 subtitle: kaitlyn_fu@ucsb.edu
 ---
 
