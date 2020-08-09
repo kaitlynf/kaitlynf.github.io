@@ -4,12 +4,16 @@ navbar:
   title: "GEOG 176A Labs"
   left:
     - text: "Home"
-    - size: "4"
     - icon: fa-home
       href: index.html
+    - text: "CV"
+    - icon: fa-book-open
+    - href: letter.html
+  right: 
     - text: "GIS Work"
     - icon: fa-github
       href: geog176A.html
+  
 output:
   html_document:
     theme: "journal"
