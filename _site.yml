@@ -9,11 +9,10 @@ navbar:
     - text: "CV"
     - icon: fa-book-open
       href: letter.html
-  right: 
-    - text: "GIS Work"
-    - icon: fa-github
+    - text: "GIS Assignments"
+    - icon: fa-edit
       href: geog176A.html
 output:
   html_document:
-    theme: "journal"
+    theme: "cosmo"
     

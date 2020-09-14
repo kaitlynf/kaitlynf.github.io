@@ -2,10 +2,19 @@
 title: "Projects"
 ---
 
-In the summer of 2020, I am taking a introduction to GIS course that is using R studio to help us better understand and map the data. It has been challenging yet exciting learning how to code! 
+In the summer of 2020, I took an introduction to GIS course that utilizes R studio to map data. Below are the links to my projects performing various GIS and data analysis functions. 
 
-## [Building a project website]()
-
+## [Lab 1: Data Science Workflows](https://kaitlynf.github.io/)
 - Learned how to open a user site on Github. 
 - Built a site to display my work.
 - Personalized with my information practiced attaching URLs and images. 
+
+## [Lab 2: Data Wrangling](https://kaitlynf.github.io/geog-176A-labs/lab-02.html)
+
+## [Lab 03: Projections, Distances, and Mapping](https://kaitlynf.github.io/geog-176A-labs/lab-03.html)
+
+## [Lab 04: Tesselations, Spatial Joins, and Point-in-Polygon](https://kaitlynf.github.io/geog-176A-labs/lab-04.html)
+
+## [Lab 05: Raster Analysis](https://kaitlynf.github.io/geog-176A-labs/lab-05.html)
+
+## [Lab 06: Terrain Analysis](https://kaitlynf.github.io/geog-176A-labs/lab-06.html)

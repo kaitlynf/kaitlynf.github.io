@@ -7,7 +7,9 @@ title: "About Me"
  
 </center>
   
-Hello everyone! My name is Kaitlyn and I am graduating senior from University of California, Santa Barbara with double degrees in Geography, B.A. and Global Studies, B.A. I enjoy learning about urbanism and sustainability, and hope to work in the urban planning field in the near future.  
+I am graduating senior from University of California, Santa Barbara with double degrees in Geography, B.A. and Global Studies, B.A. I enjoy learning about urbanism and sustainability, and hope to work in the urban planning field in the near future.
+
+I hope use the skills I acquired throughout my undergraduate career to transform urban spaces to strengthen communities, protect the environment, and foster sustainable development. You can reach me at 99kaitlyn@gmail.com. 
 
 <center>
 ![](img/github pic.png)
