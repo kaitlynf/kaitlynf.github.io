@@ -1,6 +1,9 @@
 ---
 title: "Kaitlyn Fu"
-subtitle: kaitlyn_fu@ucsb.edu
+subtitle: 99kaitlyn@gmail.com, kaitlyn_fu@ucsb.edu
+output:
+  html_document:
+    theme: "cosmo"
 ---
 
 # Education

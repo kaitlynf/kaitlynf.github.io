@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    theme: "cosmo"
 ---
   
 <center>
@@ -9,7 +12,7 @@ title: "About Me"
   
 I am graduating senior from University of California, Santa Barbara with double degrees in Geography, B.A. and Global Studies, B.A. I enjoy learning about urbanism and sustainability, and hope to work in the urban planning field in the near future.
 
-I hope use the skills I acquired throughout my undergraduate career to transform urban spaces to strengthen communities, protect the environment, and foster sustainable development. You can reach me at 99kaitlyn@gmail.com. 
+I hope use the skills I acquired throughout my undergraduate career to transform urban spaces to strengthen communities, protect the environment, and foster sustainable development. You can reach me at 99kaitlyn@gmail.com and view some of my work at https://kaitlynf.github.io/. 
 
 <center>
 ![](img/github pic.png)

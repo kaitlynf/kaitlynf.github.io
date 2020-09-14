@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+output:
+  html_document:
+    theme: "cosmo"
 ---
 
 In the summer of 2020, I took an introduction to GIS course that utilizes R studio to map data. Below are the links to my projects performing various GIS and data analysis functions. 
@@ -7,14 +10,30 @@ In the summer of 2020, I took an introduction to GIS course that utilizes R stud
 ## [Lab 1: Data Science Workflows](https://kaitlynf.github.io/)
 - Learned how to open a user site on Github. 
 - Built a site to display my work.
-- Personalized with my information practiced attaching URLs and images. 
+- Personalized with my information and practiced attaching URLs and images. 
 
 ## [Lab 2: Data Wrangling](https://kaitlynf.github.io/geog-176A-labs/lab-02.html)
+- Loaded in raw data to filter, manipulate, and analyze. 
+- Cross-referenced and joined different data frames to gather necessary data. 
+- Presented relevant data in tables and figures. 
 
 ## [Lab 03: Projections, Distances, and Mapping](https://kaitlynf.github.io/geog-176A-labs/lab-03.html)
+- Created sf objects of the United States from R packages and CSV files. 
+- Calculated distances of US cities from US's national border, states borders, Mexican border, and Canadian border.
+- Utilized ggplot tool to plot the findings. 
 
 ## [Lab 04: Tesselations, Spatial Joins, and Point-in-Polygon](https://kaitlynf.github.io/geog-176A-labs/lab-04.html)
+- Mapped the surface of Contiguous United States with original counties boundaries, square grid, hexagonal grid, voronoi tessellation, and triangulated tessellation. 
+- Created functions and point-in-polygon functions to process the data more efficiently. 
+- Analyzed the purposes of dams across CONUS with data from the National Dam Inventory. 
 
 ## [Lab 05: Raster Analysis](https://kaitlynf.github.io/geog-176A-labs/lab-05.html)
+- Identified the area of interest by filtering data, generating buffer zone, and bounding the area. 
+- Acquired data and images from online database. 
+- Manipulated and analyzed landsat imagery and created threshold indexes. 
+- Used k-means clustering algorithm to group raster cells with similar spectral properties. 
 
 ## [Lab 06: Terrain Analysis](https://kaitlynf.github.io/geog-176A-labs/lab-06.html)
+- Loaded in boundary data, elevation data, and buildings and river-network data to analyze flood risk. 
+- Created hillshade raster and “Height Above Nearest Drainage” (HAND) raster for terrain analysis. 
+- Used the loaded data to analyze the impact of 2017 flood to the surrrounding area. 
